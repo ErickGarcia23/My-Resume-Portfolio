@@ -346,7 +346,7 @@
 		position: absolute;
 		margin-top: -14px;
 		z-index: 100;
-		padding-left: 40px;
+		padding-left: 90px;
 	}
 	.tabs li {
 		float: left;
@@ -405,7 +405,7 @@
 		overflow:hidden;
 	}
 	.skills-section, .timeline-section {
-		float:left;
+		float:right;
 	}
 	/* Timeline Section */
 	.timeline-section {
@@ -445,7 +445,7 @@
 	.timeline li .timelineUnit h5 {
 		line-height:18px;
 		font-size:15px;
-		color: #999;
+		color: #444;
 	}
 	.timeline li .timelineUnit p {
 		color: #666;
@@ -875,7 +875,7 @@
 		overflow:hidden;
 	}
 	.contact-info, .contact-form {
-		float:left;
+		float: left;
 		padding:0 20px;
 	}
 	.contact-info {
@@ -888,16 +888,16 @@
 	.contact-info ul {
 		float:left;
 		border-left:1px solid /*mainColor*/#10b3f3;
-		padding-left:18px;
+		padding-left:10px;
 	}
 	.contact-info ul li {
-		font-size:17px;
+		font-size:15px;
 		line-height:20px;
 		color: #666;
 		overflow: hidden;
 	}
 
-	/* Google map */
+	/* Google map 
 		#map {
 		height: 300px;
 		margin-bottom:25px;
@@ -905,6 +905,7 @@
 		border-bottom:1px solid #CCC;
 		border-top:1px solid #CCC;
 	}
+	*/
 	/*-------------------------------------------------------*/
 		/* Forms */
 	/*-------------------------------------------------------*/
