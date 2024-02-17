@@ -411,22 +411,27 @@
 	.timeline-section {
 		width:490px;
 		padding-right:30px;
+		
 	}
 	.timeline {
 		margin-bottom: 30px;
 	}
 	.timeline li {
 		margin-bottom:20px;
+		
 	}
 	.timeline li .timelineUnit {
 		line-height:17px;
 		margin-left:0px;
 		color: #444;
 		font-size:13px;
-		border-left:1px solid /*mainColor*/#10b3f3;
+		border-left:2px solid /*mainColor*/#10b3f3;
 		padding-left:15px;
+		
 	}
+
 	.timeline li .timelineUnit .timelineDate {
+		
 		line-height:17px;
 		color:/*mainColor*/crimson;
 		font-size:15px;
@@ -438,7 +443,7 @@
 	}
 	.timeline li .timelineUnit h4 {
 		line-height:24px;
-		font-size:18px;
+		font-size:17px;
 		font-weight: 400;
 		color: #444;
 	}
@@ -451,6 +456,7 @@
 		color: #666;
 		font-size:12px;
 		margin-top:5px;
+		
 	}
 
 	/* Skills Section */
@@ -889,7 +895,7 @@
 	/* Contact info */
 	.contact-info ul {
 		float:left;
-		border-left:1px solid /*mainColor*/#10b3f3;
+		border-left:2px solid /*mainColor*/#10b3f3;
 		padding-left:10px;
 	}
 	.contact-info ul li {
