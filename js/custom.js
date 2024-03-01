@@ -180,7 +180,8 @@ jQuery(document).ready(function(){
 	// Portfolio image animation 
 	$plist.find('img').adipoli({
 		'startEffect' 	: 'transparent',
-		'hoverEffect' 	: 'boxRandom',
+		'hoverEffect' 	: 'popout',
+		//'hoverEffect' 	: 'boxRandom',
 		'imageOpacity' 	: 0.6,
 		'animSpeed' 	: 100,
 	});
