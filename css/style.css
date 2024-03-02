@@ -568,7 +568,7 @@
 	#portfolio-list img {
 		background-color:#FFF;
 		height:200px;    /*120*/
-		width:250px;             /*180*/
+		width:260px;             /*180*/
 	}
 	#portfolio-list li:hover .title {
 		color:/*mainColor*/crimson;
@@ -582,7 +582,7 @@
 	#portfolio-list li .categorie {
 		font-size:13px;
 		line-height:25px;
-		color:#666;
+		color:#444;
 	}
 
 	/* Filter menu */
