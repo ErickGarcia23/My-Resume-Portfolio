@@ -451,26 +451,29 @@
 		line-height:24px;
 		font-size:17px;
 		margin-bottom: 10px;
-		font-weight: 400;
+		font-weight: 550;
 		color: #444;
 	}
 	.timeline li .timelineUnit h5 {
 		line-height:18px;
 		margin-bottom: 10px;
-		font-size:14px;
-		color: #444;
+		font-size:15px;
+		font-weight: 550;
+		color: #666;
 	}
 	.timeline li .timelineUnit h6 {
 		list-style: circle;
 		line-height:18px;
 		margin-bottom: 10px;
 		margin-left: 30px;
-		font-size:13px;
-		color: #444;
+		font-size:14px;
+		font-weight: 550;
+		color: #666;
 	}
 	.timeline li .timelineUnit p {
-		color: #444;
+		color: #666;
 		font-size:12.5px;
+		font-weight: 550;
 		margin-top:5px;
 		
 	}
@@ -496,8 +499,8 @@
 		width:250px;
 		float:left;
 		font-size:15px;
-		font-weight: 400;
-		color: #444;
+		font-weight: 501;
+		color: #666;
 	}
 
 	.skills li .rating {
