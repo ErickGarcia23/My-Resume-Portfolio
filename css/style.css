@@ -111,7 +111,7 @@
 
 	h3.main-heading {
 		margin:0px 2px 20px 0px;
-		border-bottom:1px solid #ebebeb;
+		border-bottom:1px solid #9d9d9d;
 		padding-bottom:14px;
 		color:#333;
 		line-height:16px;
@@ -123,11 +123,11 @@
 	}
 	h3.main-heading::after {
 		content: '';
-		width: 40px;
-		height: 1px;
+		width: 90px;
+		height: 2px; /* red dash width*/
 		position: absolute;
 		left: 0;
-		bottom: 1px;
+		bottom: 0px;
 		background:/*mainColor*/crimson;
 	}
 	/*-------------------------------------------------------*/
@@ -359,7 +359,7 @@
 		display: inline-block;
 		background-repeat: no-repeat;
 		font-size: 17px;
-		color: #b9b9b9;
+		color: #9d9d9d;
 		text-align: center;
 		font-weight: 550;
 	}
@@ -461,6 +461,7 @@
 		color: #444;
 	}
 	.timeline li .timelineUnit h6 {
+		list-style: circle;
 		line-height:18px;
 		margin-bottom: 10px;
 		margin-left: 30px;
